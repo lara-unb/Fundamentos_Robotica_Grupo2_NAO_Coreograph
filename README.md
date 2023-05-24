@@ -9,5 +9,7 @@ NÃO - Coreograph
   Podem se basear nas apresentações recentes do ----.
 
 ### integrantes 
+
 Eduardo Felipe - 1801191912
+
 Herbert Tavares - 190014300
