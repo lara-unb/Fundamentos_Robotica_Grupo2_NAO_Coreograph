@@ -19,7 +19,7 @@ Ao reconhecer o toque, o robo identificara em quais partes da cabeça que se foi
 
 <p align="center">
   <img width="728" height=430" src= img2.png title="Flow">
-  <h6 align="center">Uniform-cost search</h6>
+  <h6 align="center">Fluxo de projeto</h6>
 </p>
 
-[video](https://www.youtube.com/watch?v=PWvyjgK0Ujo)
+[Clique aqui para assistir o video](https://www.youtube.com/)
