@@ -5,7 +5,7 @@
 Nesse projeto foi-se implementado certos modelos de rosto, de modo que o robo conseguisse por meio da percepção é da memória do rosto, corresponder ao mesmo com certas falas, utilizamos, portanto nesse projeto os sensores visuais do robô.
 
 <p align="center">
-  <img width="115" height="84" src= img21.png title="Eye Led">
+  <img width="458" height="334" src= img21.png title="Eye Led">
   <h6 align="center">Eye Led</h6>
 </p>
 
@@ -14,7 +14,7 @@ O robô irá perceber os seguintes rostos.
 
 * Professor Raimundo
 <p align="center">
-  <img width="294" height="194" src= img22.png title="Raimundo head">
+  <img width="147" height="97" src= img22.png title="Raimundo head">
   <h6 align="center">Raimundo</h6>
 </p>
 
