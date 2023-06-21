@@ -5,7 +5,7 @@
 Nesse projeto foi-se implementado certos modelos de rosto, de modo que o robo conseguisse por meio da percepção é da memória do rosto, corresponder ao mesmo com certas falas, utilizamos, portanto nesse projeto os sensores visuais do robô.
 
 <p align="center">
-  <img width="458" height="334" src= img21.png title="Eye Led">
+  <img width="115" height="84" src= img21.png title="Eye Led">
   <h6 align="center">Eye Led</h6>
 </p>
 
@@ -59,7 +59,7 @@ O processo de programar o robô se da do seguinte modo.
 Utiliza-se o robo Learn Face sem nenhuma outra conexão no código.
 
 <p align="center">
-  <img width="728" height=430" src= img27.png title="Flow">
+  <img width="127" height=107" src= img27.png title="Flow">
   <h6 align="center">Fluxo de projeto</h6>
 </p>
 
