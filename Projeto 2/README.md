@@ -38,7 +38,7 @@ O robô irá perceber os seguintes rostos.
 
 * Elon Musk
 <p align="center">
-  <img width="114" height="78" src= img4.png title="Elon head">
+  <img width="114" height="78" src= img26.png title="Elon head">
   <h6 align="center">Feet Wlon</h6>
 </p>
 
