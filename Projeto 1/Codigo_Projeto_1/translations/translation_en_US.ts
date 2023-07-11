@@ -18,10 +18,9 @@
     <context>
         <name>behavior_1/behavior.xar:/Say (1)</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Olá, como vai você</source>
             <comment>Text</comment>
-            <translation type="unfinished">Olá, como vai você</translation>
+            <translation type="obsolete">Olá, como vai você</translation>
         </message>
     </context>
 </TS>
