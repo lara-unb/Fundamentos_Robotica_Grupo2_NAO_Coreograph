@@ -10,6 +10,8 @@ NÃO - Coreograph
 
 ### integrantes 
 
+Ramires Rocha - 160142717
+
 Eduardo Felipe - 1801191912
 
 Herbert Tavares - 190014300
