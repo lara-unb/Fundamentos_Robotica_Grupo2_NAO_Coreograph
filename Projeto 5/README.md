@@ -17,7 +17,7 @@ Na realização dessa interação, chamada como Reconhecimento Facial, foi utili
 Nessa a interação o diagrama de bloco de programação utilizados foram o get expression expressão humana), para localizar a expressão humana a sua frente, o animated say(fala),para falar a saudação programada para sua fala, após a detecção do rosto da pessoa a sua frente, blocos esses pertencentes ao Humam Tracked.
 
 <p align="center">
-  <img width="752" height="261" src= img51.png title="implementação">
+  <img width="752" height="261" src= img52.png title="implementação">
   <h6 align="center">Implementado</h6>
 </p>
 
