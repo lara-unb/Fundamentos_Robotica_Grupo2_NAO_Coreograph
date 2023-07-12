@@ -58,4 +58,4 @@ A implementação se dá do seguinte modo, todos os sensores são ativados por m
 Como vemos durante a implementação e experimentação dos sensores tácteis é possível aproximar o ser humano a ações que ele poderia vir a ter de acordo com a zona tocada, aí está uma das importâncias dos sensores táteis para a robótica.
 
 ## Vídeos
-[Clique aqui para assistir o vídeo](https://www.youtube.com/)
+[Clique aqui para assistir o vídeo](https://www.youtube.com/watch?v=J2mjwJn89wk)
