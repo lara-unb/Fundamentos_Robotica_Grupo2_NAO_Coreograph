@@ -20,7 +20,7 @@ Nessa implementação o diagrama de blocos de programação usados foram os Util
 
 <p align="center">
   <img width="750" height="457" src= img42.png title="implementar">
-  <h6 align="center">implementar</h6>
+  <h6 align="center">implementado</h6>
 </p>
 
 Identificado os parâmetros do sonar(alcance de detecção) foi realizado o conexão do bloco sonar com o bloco say(fala),para depois da detecção do obstáculo pelo sonar o NAO indicaria presença do mesmo, falando pelo comando say se o obstáculo está a sua frente, ou a direita, ou à esquerda
