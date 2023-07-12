@@ -76,4 +76,4 @@ Utiliza-se o bloco Face Reco. Que será responsável por fazer com que o robo an
 Se faz notável a capacidade do robô em conseguir recolher as pessoas é responder com ações de acordo com qual pessoa que se nota, isso pode ser muito melhor abordado futuramente por meio do aprendizado de máquina para treinar algoritmos é fortalecer o robo em encontrar, por exemplo doenças em pessoas de acordo com o que o robô é capaz de perceber, ou até mesmo interagir com objetos inanimados para, por exemplo ser capaz de observar equipamentos e realizar reparos, essa interação com o ambiente é muito importante é pode ser muito mais aprimorada, dai sua importância.
 
 ## Vídeo
-[Clique aqui para assistir o vídeo](https://www.youtube.com/)
+[Clique aqui para assistir o vídeo](https://www.youtube.com/watch?v=31TFcZDt8VI&feature=youtu.be)
