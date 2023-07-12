@@ -57,4 +57,4 @@ Primeiramente seguimos o Speech Reco como bloco primário do circuito ao qual o 
 Com o avanço da sociedade algo que foi muito importante é possibilitou diversas ferramentas de auxílio ao trabalho, atividades, lazer entre outras áreas ao ser humano foi a interação entre humano é maquina, isso ocorreu por meio da melhoria da comunicação entre humanos e maquinas, o reconhecimento de fala do robô NAO tem grande importância quando se trata disso, trazendo uma possibilidade de comunicação oral entre humanos e robôs, claro que isso pode ser muito melhor ampliado é feito com inteligência artificial é aplicando outras áreas da computação e eletrônica, dai a importância do reconhecimento de fala nos robôs.
 
 ## Vídeo
-[Clique aqui para assistir o vídeo](https://www.youtube.com/)
+[Clique aqui para assistir o vídeo](https://www.youtube.com/watch?v=w7z3JflD464)
